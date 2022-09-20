@@ -67,3 +67,15 @@ th {
     border-bottom: 8px double rgb(44, 44, 41);
     border-left: 16px inset purple;
  }
+ h2:hover{
+    color:blueviolet;
+}
+
+h2{
+
+  text-shadow: 2px 3px 5px peru;
+}
+.cool{
+    font-size:20px;
+    color:burlywood;
+}
