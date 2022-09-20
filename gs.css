@@ -38,3 +38,32 @@ color:rgb(65, 37, 52);
     font-size:20;
     color:rgb(109, 147, 160);
 }
+table{
+    border-style:double;
+}
+th, td {
+    border: 1px solid hotpink;
+  }
+th {
+   color:purple;
+      }
+      td{
+        color:rgb(98, 44, 55);
+      }
+       tr:nth-child(even) {
+        background-color:blue;
+      }
+      td {
+        text-align: center;
+      }
+   
+  th,td {
+    width:200px;
+    padding:0px 4px 4px 4px;
+    margin: -28px 0px -10px 100px;
+    background: lightblue;
+    border-top: 2px solid blueviolet;
+    border-right: 4px dashed brown;
+    border-bottom: 8px double rgb(44, 44, 41);
+    border-left: 16px inset purple;
+ }
